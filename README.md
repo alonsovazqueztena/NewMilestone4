@@ -1,9 +1,9 @@
-# Full-Stack Login and Register Page Tutorial Using MERN Stack
+# Full-Stack Login and Register Page Using MERN Stack
 
-Welcome to our tutorial on how to build a full-stack login and register page using MERN stack. In this tutorial, we will cover step-by-step instructions on how to create a secure and functional login and register page using React.js, MongoDB, Express, Bcrypt, JWT, and more.
+Welcome to our project on building a full-stack login and register page using MERN stack. In this project, we will cover creating a secure and functional login and register page using React.js, MongoDB, Express, Bcrypt, JWT, and more.
 
 ## Project Overview
-Whether you're a beginner or an experienced developer, this tutorial is designed to help you gain a deeper understanding of the MERN stack and how it can be used to build powerful and secure web applications. We will discuss authentication, authorization, encrypting user's passwords for extra security, and tracking users with a cookie using JSON Web Tokens.
+Here we will use thr MERN stack and how it can be used to build powerful and secure web applications. We will discuss authentication, authorization, encrypting user's passwords for extra security, and tracking users with a cookie using JSON Web Tokens.
 
 ## Technologies Used
 - **React.js**: For building the front-end user interface.
@@ -30,14 +30,8 @@ Whether you're a beginner or an experienced developer, this tutorial is designed
 ## Getting Started
 To get started with this project, clone the repository and follow the setup instructions to install all necessary dependencies and start the development server.
 
-## Further Reading
-Explore more about MERN stack development by following our additional resources and documentation linked below.
-
 ## License
 This project is open-sourced under the MIT license. See the LICENSE file for more information.
 
 ## Contributors
 This project is the result of collaborative efforts of [contributor names]. For a full list of contributors, see the contributors list on GitHub.
-
-## Acknowledgements
-Special thanks to everyone who has contributed to the development of this tutorial, providing feedback, and improving the content.
